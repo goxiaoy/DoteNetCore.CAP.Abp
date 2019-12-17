@@ -20,7 +20,7 @@ This is a repository integrated [CAP](https://github.com/dotnetcore/CAP/) with [
 
 ### EventBus
 
-### Use rabbitMQ
+#### Use rabbitMQ
 ```
     public override void PreConfigureServices(ServiceConfigurationContext context)
     {
@@ -35,7 +35,7 @@ This is a repository integrated [CAP](https://github.com/dotnetcore/CAP/) with [
         });
     }
 ```
-### Use kafka
+#### Use kafka
 ```
     public override void PreConfigureServices(ServiceConfigurationContext context)
     {
