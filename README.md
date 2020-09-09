@@ -1,3 +1,7 @@
+
+# This project is no longer maintained. You can move to a similar package [Abp.EventBus.CAP](https://github.com/EasyAbp/Abp.EventBus.CAP)
+
+
 This is a repository integrated [CAP](https://github.com/dotnetcore/CAP/) with [ABP](https://github.com/abpframework/abp)
 
 ### Storage
